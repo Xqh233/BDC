@@ -1,1 +1,5 @@
-BDC
+使用jsoup和x5webview
+通过webview获取用户cookies
+使用cookies删除动态，取关用户
+注入js控制手机端页面显示
+仅供学习交流使用
